@@ -51,4 +51,7 @@ body {
     text-decoration: underline;
   }
 
-  
+.hoofdtitel {
+    color: white;
+    text-align: center;
+}
